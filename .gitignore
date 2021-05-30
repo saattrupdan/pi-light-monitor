@@ -1,7 +1,19 @@
+# VIm
 .vim
 **/*.swp
+
+# Cache
 .ipynb_checkpoints
 __pycache__
-data
+
+# Data folders
+data/
+models/
+
+# Environments
 .venv
 .env
+
+# Logging
+lightning_logs/
+tb_logs/
